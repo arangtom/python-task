@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+habit_data.json
+heatmap.html
+build/
+dist/
+*.spec
+.venv/
